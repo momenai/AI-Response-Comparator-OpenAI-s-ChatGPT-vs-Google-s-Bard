@@ -40,7 +40,7 @@ You will need Python and pip installed on your machine. You will also need API k
 Run the following command in your terminal:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## How to Use
