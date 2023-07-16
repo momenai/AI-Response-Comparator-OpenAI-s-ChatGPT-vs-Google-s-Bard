@@ -26,7 +26,7 @@ You will need Python and pip installed on your machine. You will also need API k
 
    # Set your environment variables
    os.environ["_BARD_API_KEY"] = "your_bard_api_key"
-   os.environ["OPENAI_API_KEY"] = "your_openai_api_key"
+   openai.api_key = "sk-your_openai_api_key"
    ```
 
 ### Obtaining API keys
