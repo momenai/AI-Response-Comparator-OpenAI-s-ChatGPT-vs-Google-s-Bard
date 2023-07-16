@@ -2,6 +2,11 @@
 # AI Comparison: OpenAI's ChatGPT vs Google's Bard
 
 This web application leverages Streamlit to create a user-friendly interface where users can enter a question or a prompt and receive responses from two AI models: OpenAI's ChatGPT and Google's Bard. This allows for an easy comparison of the outputs of the two different AI models in real time.
+## Examples
+
+![example1](./images/1.jpg) 
+![example2](./images/2.jpeg)
+
 
 ## Setup
 
